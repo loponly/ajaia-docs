@@ -1,8 +1,8 @@
 # Ajaia Docs — submission
 
 - **Live URL:** https://ajaia-docs-547265476805.us-central1.run.app (first load may take a few seconds: cold start)
-- **Google Drive (source zip):** [FILL IN]
-- **Video walkthrough:** [FILL IN]
+- **Source code:** https://github.com/loponly/ajaia-docs
+- **Video walkthrough:** https://www.youtube.com/watch?v=oXRmK_Va7p0
 
 ## Demo users (mocked login: pick a user)
 
@@ -50,4 +50,4 @@
 
 ## More detail
 
-[ARCHITECTURE.md](ARCHITECTURE.md) · [AI_WORKFLOW.md](AI_WORKFLOW.md) · [E2E_RESULTS.md](E2E_RESULTS.md)
+[ARCHITECTURE.md](https://github.com/loponly/ajaia-docs/blob/master/ARCHITECTURE.md) · [AI_WORKFLOW.md](https://github.com/loponly/ajaia-docs/blob/master/AI_WORKFLOW.md) · [E2E_RESULTS.md](https://github.com/loponly/ajaia-docs/blob/master/E2E_RESULTS.md)
